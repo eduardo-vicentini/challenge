@@ -1,0 +1,6 @@
+pandas
+cython
+matplotlib
+fbprophet
+scikit-learn
+statsmodels
